@@ -8,6 +8,9 @@
 
 [![pub package](https://img.shields.io/pub/v/flutter_whatsnew.svg)](https://pub.dartlang.org/packages/flutter_whatsnew)
 
+> [!WARNING]
+> This project has moved here: https://github.com/rodydavis/packages.dart
+
 A Flutter Plugin to Show a Whats New page. 
 
 Online Demo: https://fluttercommunity.github.io/flutter_whatsnew/
